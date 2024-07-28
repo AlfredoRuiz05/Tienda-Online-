@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+}
+
+#cont{
+    background-color: rgb(53, 53, 53);
+}
+
+#divcont{
+    height: 1000px;
+    width: auto;
+    background-color: rgb(71, 71, 71);
+    padding: 0;
+}
+
+#header{
+    background-color: rgb(0, 0, 0);
+    height: 150px;
+    width: 100%;
+}
+
+#logo{
+    width: 100px;
+    float: left;
+    padding: 0;
+}
+
+#img{
+    float: left;
+}
+
+#btn{
+    height: 50px;
+}
+
+#btnm{
+    margin-right: 10px;
+}
+
+#linkbtn{
+    text-decoration: none;
+    color: white;
+}
+
+#cardservi{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: rgb(49, 49, 49);
+}
+
+#divbus{
+    width: 400px;
+    height: 35px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#card{
+    color: white;
+    margin-top: 10px;
+    margin-left: 20px;
+    display: inline-block;
+    box-shadow: 20px, 20px, 20px, 20px;
+}
