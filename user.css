@@ -1,0 +1,57 @@
+#contedituser{
+    width: 65rem;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+}
+
+#editimg{
+    height: 10rem;
+}
+
+#editimg,#editpass,#conteditperfil{
+    background-color: rgb(111, 111, 111);
+    width: 55rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+    border-radius: 0.7rem;
+    -webkit-box-shadow: 5px 5px 7px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 5px 7px 0px rgba(0,0,0,0.75);
+    box-shadow: 5px 5px 7px 0px rgba(0,0,0,0.75);
+}
+
+#conteditperfil{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#imguser{
+    width: 6rem;
+    height: 6rem;
+    background-image: url(../../../img/user.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%;
+    border-color: white;
+    border-width: 4px;
+    border-style: solid;
+    float: inline-start;
+}
+
+#nameuser{
+    width: 42rem;
+    margin-left: 2rem;
+    float: inline-end;
+}
+
+#linkpassemail{
+    text-decoration: none;
+}
+
+#linkpassemail:hover{
+    text-decoration: underline;
+}
